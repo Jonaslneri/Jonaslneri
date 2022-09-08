@@ -15,6 +15,8 @@ Hello, i'm Jonas Neri, a passionate self-taught data scientist and a freelancer 
 
 <a href="https://www.buymeacoffee.com/Jonaslneri" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+---
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jonaslneri&show_icons=true&theme=gotham" alt="Jonaslneri" />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonaslneri&langs_count=5&theme=tokyonight" lt="Jonaslneri" />
