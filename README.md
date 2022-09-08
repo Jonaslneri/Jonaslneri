@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @Jonaslneri
-- 👀 I’m interested in machine learning and data science!
-- 🌱 I’m currently learning computer vision
-- 💞️ I’m looking to collaborate on computer vision competitions
-- 📫 How to reach me litardineri@gmail.com
+### Welcome, visitor!
+<a href="https://www.linkedin.com/in/jonas-litardi-neri/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=Jonaslneri.Jonaslneri)
+
+<br />
+
+Hello, i'm Jonas Neri, a passionate self-taught data scientist and a freelancer from Brazil. My passion for data lies with dreaming up solutions and making them come true with plenty of added value. I take great care in the experience, architecture, and code quality of the things I build.
+
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 Any freelance work? do reach, [email](mailto:litardineri@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jonaslneri&show_icons=true&theme=gotham" alt="Jonaslneri" />
 
