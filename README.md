@@ -8,13 +8,9 @@
 <br />
 
 Hello, i'm Jonas Neri, a passionate self-taught data scientist and a freelancer from Brazil. My passion for data lies with dreaming up solutions and making them come true with plenty of added value. I take great care in the experience, architecture, and code quality of the things I build.
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? do reach, [email](mailto:litardineri@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
-
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jonaslneri&show_icons=true&theme=gotham" alt="Jonaslneri" />
 
